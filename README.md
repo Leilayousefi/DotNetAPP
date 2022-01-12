@@ -1,6 +1,7 @@
 # DotNetAPP
 
-Infer.NET and probabilistic programming
+## Infer.NET and probabilistic programming
+https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/matchup-app-infer-net
 
 
 ## Template for Full .Net Framework:
