@@ -27,8 +27,8 @@ jobs:
       
       - name: macmade - msbuild
         # setup-msbuild (for windows)
-        uses: macmade/action-msbuild@main
         # microsoft/setup-msbuild@v1.1 (for windows)
+        uses: macmade/action-msbuild@main
         
       - name: Setup NuGet.exe for use with actions
         # You may pin to the exact commit or the version.
