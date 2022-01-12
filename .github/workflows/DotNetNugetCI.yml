@@ -29,8 +29,8 @@ jobs:
       uses: NuGet/setup-nuget@v1.0.5
     
     - name: Restore NuGet packages
-      run: nuget restore BugGuardian.MVC.sln
+      run: nuget restore DotNetAPP.sln
     
     - name: Build the Solution
-      run: msbuild BugGuardian.MVC.sln /p:Configuration=Release
+      run: msbuild DotNetAPP.sln /p:Configuration=Release
       
