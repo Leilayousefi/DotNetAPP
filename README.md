@@ -3,6 +3,9 @@
 ## Infer.NET and probabilistic programming
 https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/matchup-app-infer-net
 
+https://github.com/dotnet/infer
+
+
 
 ## Template for Full .Net Framework:
 Action [Tab] -> Configure new .yml file (named NetFxCI.yml)
